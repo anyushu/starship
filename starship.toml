@@ -28,7 +28,7 @@ format = '\[[$symbol($version)]($style)\]'
 
 [cmd_duration]
 style = "bold #f1fa8c"
-format = '\[[⏱ $duration]($style)\]'
+format = '\[[⏱  $duration]($style)\]'
 
 [cobol]
 format = '\[[$symbol($version)]($style)\]'
@@ -49,7 +49,7 @@ format = '\[[$symbol($version)]($style)\]'
 format = '\[[$symbol$context]($style)\]'
 
 [dotnet]
-format = '\[[$symbol($version)(🎯 $tfm)]($style)\]'
+format = '\[[$symbol($version)(🎯  $tfm)]($style)\]'
 
 [elixir]
 format = '\[[$symbol($version \(OTP $otp_version\))]($style)\]'
